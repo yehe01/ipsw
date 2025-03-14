@@ -80,6 +80,8 @@ require (
 // TODO: remove this once https://github.com/spf13/cast/pull/155 is merged
 replace github.com/spf13/cast => github.com/blacktop/cast v1.5.2
 
+replace github.com/blacktop/go-macho => github.com/yehe01/go-macho v1.1.243
+
 // replace github.com/blacktop/go-macho => ../go-macho
 // replace github.com/blacktop/go-dwarf => ../go-dwarf
 // replace github.com/blacktop/arm64-cgo => ../arm64-cgo
